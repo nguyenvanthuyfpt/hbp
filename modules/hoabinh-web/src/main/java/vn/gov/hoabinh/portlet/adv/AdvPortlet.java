@@ -47,7 +47,9 @@ import vn.gov.hoabinh.util.UploadFileUtilsBak;
 public class AdvPortlet extends MVCPortlet {
 
 	Log log = LogFactoryUtil.getLog(this.getClass());
-
+	
+	
+	
 	AdvTypeLocalService advTypeService;
 	AdvItemLocalService advItemService;
 
